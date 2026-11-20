@@ -1,0 +1,122 @@
+[
+ {
+  "product_id": "P01",
+  "name": "Nova table lamp",
+  "designer": "Studio Vik",
+  "price": 129,
+  "fitting": "E27",
+  "dimmable": true,
+  "ip_rating": "IP20",
+  "stock": 14
+ },
+ {
+  "product_id": "P02",
+  "name": "Nova floor lamp",
+  "designer": "Studio Vik",
+  "price": 289,
+  "fitting": "E27",
+  "dimmable": true,
+  "ip_rating": "IP20",
+  "stock": 6
+ },
+ {
+  "product_id": "P03",
+  "name": "Halo pendant 60 cm",
+  "designer": "Brennholz",
+  "price": 349,
+  "fitting": "E27",
+  "dimmable": true,
+  "ip_rating": "IP20",
+  "stock": 0
+ },
+ {
+  "product_id": "P04",
+  "name": "Halo pendant 90 cm",
+  "designer": "Brennholz",
+  "price": 489,
+  "fitting": "E27",
+  "dimmable": true,
+  "ip_rating": "IP20",
+  "stock": 3
+ },
+ {
+  "product_id": "P05",
+  "name": "Pebble wall light",
+  "designer": "Atelier Mor",
+  "price": 99,
+  "fitting": "G9",
+  "dimmable": false,
+  "ip_rating": "IP44",
+  "stock": 22
+ },
+ {
+  "product_id": "P06",
+  "name": "Lune desk lamp",
+  "designer": "Nordlys",
+  "price": 149,
+  "fitting": "LED module",
+  "dimmable": true,
+  "ip_rating": "IP20",
+  "stock": 9
+ },
+ {
+  "product_id": "P07",
+  "name": "Fjord outdoor lamp",
+  "designer": "Nordlys",
+  "price": 189,
+  "fitting": "E27",
+  "dimmable": false,
+  "ip_rating": "IP65",
+  "stock": 5
+ },
+ {
+  "product_id": "P08",
+  "name": "Tulip table lamp",
+  "designer": "Casa Ferro",
+  "price": 115,
+  "fitting": "E14",
+  "dimmable": false,
+  "ip_rating": "IP20",
+  "stock": 31
+ },
+ {
+  "product_id": "P09",
+  "name": "Arc floor lamp",
+  "designer": "Casa Ferro",
+  "price": 399,
+  "fitting": "E27",
+  "dimmable": true,
+  "ip_rating": "IP20",
+  "stock": 2
+ },
+ {
+  "product_id": "P10",
+  "name": "Lumo Warm LED bulb E27",
+  "designer": "Lumo",
+  "price": 9.95,
+  "fitting": "E27",
+  "dimmable": true,
+  "ip_rating": "-",
+  "stock": 400
+ },
+ {
+  "product_id": "P11",
+  "name": "Lumo Warm LED bulb E14",
+  "designer": "Lumo",
+  "price": 8.95,
+  "fitting": "E14",
+  "dimmable": true,
+  "ip_rating": "-",
+  "stock": 250
+ },
+ {
+  "product_id": "P12",
+  "name": "Replacement linen shade 40 cm",
+  "designer": "Studio Vik",
+  "price": 49,
+  "fitting": "-",
+  "dimmable": false,
+  "ip_rating": "-",
+  "stock": 18
+ }
+]

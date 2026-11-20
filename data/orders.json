@@ -1,0 +1,692 @@
+[
+ {
+  "order_id": "1040",
+  "customer": "Bram Visser",
+  "email": "customer1040@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P07",
+    "name": "Fjord outdoor lamp",
+    "price": 189
+   }
+  ],
+  "total": 189,
+  "shipping_cost": 0,
+  "status": "delivered",
+  "ordered_on": "2026-11-03",
+  "carrier": "PostNL",
+  "tracking": "TRK1040NL",
+  "shipped_on": "2026-11-04",
+  "delivered_on": "2026-11-06"
+ },
+ {
+  "order_id": "1041",
+  "customer": "Inès Bakker",
+  "email": "customer1041@example.com",
+  "country": "DE",
+  "items": [
+   {
+    "product_id": "P06",
+    "name": "Lune desk lamp",
+    "price": 149
+   }
+  ],
+  "total": 149,
+  "shipping_cost": 0,
+  "status": "delivered",
+  "ordered_on": "2026-11-04",
+  "carrier": "DHL",
+  "tracking": "TRK1041DE",
+  "shipped_on": "2026-11-05",
+  "delivered_on": "2026-11-07"
+ },
+ {
+  "order_id": "1042",
+  "customer": "Chloe Janssens",
+  "email": "customer1042@example.com",
+  "country": "DE",
+  "items": [
+   {
+    "product_id": "P01",
+    "name": "Nova table lamp",
+    "price": 129
+   }
+  ],
+  "total": 129,
+  "shipping_cost": 0,
+  "status": "delivered",
+  "ordered_on": "2026-11-05",
+  "carrier": "DHL",
+  "tracking": "TRK1042DE",
+  "shipped_on": "2026-11-06",
+  "delivered_on": "2026-11-08"
+ },
+ {
+  "order_id": "1043",
+  "customer": "Chloe de Boer",
+  "email": "customer1043@example.com",
+  "country": "BE",
+  "items": [
+   {
+    "product_id": "P04",
+    "name": "Halo pendant 90 cm",
+    "price": 489
+   }
+  ],
+  "total": 489,
+  "shipping_cost": 0,
+  "status": "delivered",
+  "ordered_on": "2026-11-06",
+  "carrier": "DHL Freight",
+  "tracking": "TRK1043BE",
+  "shipped_on": "2026-11-07",
+  "delivered_on": "2026-11-09"
+ },
+ {
+  "order_id": "1044",
+  "customer": "Daan Peeters",
+  "email": "customer1044@example.com",
+  "country": "BE",
+  "items": [
+   {
+    "product_id": "P10",
+    "name": "Lumo Warm LED bulb E27",
+    "price": 9.95
+   }
+  ],
+  "total": 16.9,
+  "shipping_cost": 6.95,
+  "status": "delivered",
+  "ordered_on": "2026-11-07",
+  "carrier": "DHL",
+  "tracking": "TRK1044BE",
+  "shipped_on": "2026-11-08",
+  "delivered_on": "2026-11-10"
+ },
+ {
+  "order_id": "1045",
+  "customer": "Inès Janssens",
+  "email": "customer1045@example.com",
+  "country": "DE",
+  "items": [
+   {
+    "product_id": "P10",
+    "name": "Lumo Warm LED bulb E27",
+    "price": 9.95
+   }
+  ],
+  "total": 16.9,
+  "shipping_cost": 6.95,
+  "status": "delivered",
+  "ordered_on": "2026-11-08",
+  "carrier": "DHL",
+  "tracking": "TRK1045DE",
+  "shipped_on": "2026-11-09",
+  "delivered_on": "2026-11-11"
+ },
+ {
+  "order_id": "1046",
+  "customer": "Marco Meijer",
+  "email": "customer1046@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P01",
+    "name": "Nova table lamp",
+    "price": 129
+   }
+  ],
+  "total": 129,
+  "shipping_cost": 0,
+  "status": "delivered",
+  "ordered_on": "2026-11-09",
+  "carrier": "PostNL",
+  "tracking": "TRK1046NL",
+  "shipped_on": "2026-11-10",
+  "delivered_on": "2026-11-12"
+ },
+ {
+  "order_id": "1047",
+  "customer": "Emma de Boer",
+  "email": "customer1047@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P07",
+    "name": "Fjord outdoor lamp",
+    "price": 189
+   }
+  ],
+  "total": 189,
+  "shipping_cost": 0,
+  "status": "delivered",
+  "ordered_on": "2026-11-10",
+  "carrier": "PostNL",
+  "tracking": "TRK1047NL",
+  "shipped_on": "2026-11-11",
+  "delivered_on": "2026-11-13"
+ },
+ {
+  "order_id": "1048",
+  "customer": "Finn Visser",
+  "email": "customer1048@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P05",
+    "name": "Pebble wall light",
+    "price": 99
+   },
+   {
+    "product_id": "P09",
+    "name": "Arc floor lamp",
+    "price": 399
+   }
+  ],
+  "total": 498,
+  "shipping_cost": 0,
+  "status": "delivered",
+  "ordered_on": "2026-11-11",
+  "carrier": "DHL Freight",
+  "tracking": "TRK1048NL",
+  "shipped_on": "2026-11-12",
+  "delivered_on": "2026-11-14"
+ },
+ {
+  "order_id": "1049",
+  "customer": "Sophie Visser",
+  "email": "customer1049@example.com",
+  "country": "DE",
+  "items": [
+   {
+    "product_id": "P11",
+    "name": "Lumo Warm LED bulb E14",
+    "price": 8.95
+   },
+   {
+    "product_id": "P04",
+    "name": "Halo pendant 90 cm",
+    "price": 489
+   }
+  ],
+  "total": 497.95,
+  "shipping_cost": 0,
+  "status": "delivered",
+  "ordered_on": "2026-11-12",
+  "carrier": "DHL Freight",
+  "tracking": "TRK1049DE",
+  "shipped_on": "2026-11-13",
+  "delivered_on": "2026-11-15"
+ },
+ {
+  "order_id": "1050",
+  "customer": "Bram Wouters",
+  "email": "customer1050@example.com",
+  "country": "DE",
+  "items": [
+   {
+    "product_id": "P02",
+    "name": "Nova floor lamp",
+    "price": 289
+   },
+   {
+    "product_id": "P10",
+    "name": "Lumo Warm LED bulb E27",
+    "price": 9.95
+   }
+  ],
+  "total": 298.95,
+  "shipping_cost": 0,
+  "status": "delivered",
+  "ordered_on": "2026-11-13",
+  "carrier": "DHL Freight",
+  "tracking": "TRK1050DE",
+  "shipped_on": "2026-11-14",
+  "delivered_on": "2026-11-16"
+ },
+ {
+  "order_id": "1051",
+  "customer": "Marco Janssens",
+  "email": "customer1051@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P11",
+    "name": "Lumo Warm LED bulb E14",
+    "price": 8.95
+   }
+  ],
+  "total": 13.9,
+  "shipping_cost": 4.95,
+  "status": "delivered",
+  "ordered_on": "2026-11-14",
+  "carrier": "PostNL",
+  "tracking": "TRK1051NL",
+  "shipped_on": "2026-11-15",
+  "delivered_on": "2026-11-17"
+ },
+ {
+  "order_id": "1052",
+  "customer": "Lena Schmidt",
+  "email": "customer1052@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P10",
+    "name": "Lumo Warm LED bulb E27",
+    "price": 9.95
+   }
+  ],
+  "total": 14.9,
+  "shipping_cost": 4.95,
+  "status": "delivered",
+  "ordered_on": "2026-11-15",
+  "carrier": "PostNL",
+  "tracking": "TRK1052NL",
+  "shipped_on": "2026-11-16",
+  "delivered_on": "2026-11-18"
+ },
+ {
+  "order_id": "1053",
+  "customer": "Lars Visser",
+  "email": "customer1053@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P03",
+    "name": "Halo pendant 60 cm",
+    "price": 349
+   }
+  ],
+  "total": 349,
+  "shipping_cost": 0,
+  "status": "delivered",
+  "ordered_on": "2026-11-16",
+  "carrier": "PostNL",
+  "tracking": "TRK1053NL",
+  "shipped_on": "2026-11-17",
+  "delivered_on": "2026-11-19"
+ },
+ {
+  "order_id": "1054",
+  "customer": "Jonas Becker",
+  "email": "customer1054@example.com",
+  "country": "DE",
+  "items": [
+   {
+    "product_id": "P09",
+    "name": "Arc floor lamp",
+    "price": 399
+   }
+  ],
+  "total": 399,
+  "shipping_cost": 0,
+  "status": "shipped",
+  "ordered_on": "2026-11-17",
+  "carrier": "DHL Freight",
+  "tracking": "TRK1054DE",
+  "shipped_on": "2026-11-18",
+  "delivered_on": null
+ },
+ {
+  "order_id": "1055",
+  "customer": "Pieter Visser",
+  "email": "customer1055@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P08",
+    "name": "Tulip table lamp",
+    "price": 115
+   },
+   {
+    "product_id": "P05",
+    "name": "Pebble wall light",
+    "price": 99
+   }
+  ],
+  "total": 214,
+  "shipping_cost": 0,
+  "status": "shipped",
+  "ordered_on": "2026-11-03",
+  "carrier": "PostNL",
+  "tracking": "TRK1055NL",
+  "shipped_on": "2026-11-04",
+  "delivered_on": null
+ },
+ {
+  "order_id": "1056",
+  "customer": "Noah Smit",
+  "email": "customer1056@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P07",
+    "name": "Fjord outdoor lamp",
+    "price": 189
+   },
+   {
+    "product_id": "P03",
+    "name": "Halo pendant 60 cm",
+    "price": 349
+   }
+  ],
+  "total": 538,
+  "shipping_cost": 0,
+  "status": "shipped",
+  "ordered_on": "2026-11-04",
+  "carrier": "PostNL",
+  "tracking": "TRK1056NL",
+  "shipped_on": "2026-11-05",
+  "delivered_on": null
+ },
+ {
+  "order_id": "1057",
+  "customer": "Chloe Kaya",
+  "email": "customer1057@example.com",
+  "country": "BE",
+  "items": [
+   {
+    "product_id": "P01",
+    "name": "Nova table lamp",
+    "price": 129
+   }
+  ],
+  "total": 129,
+  "shipping_cost": 0,
+  "status": "shipped",
+  "ordered_on": "2026-11-05",
+  "carrier": "DHL",
+  "tracking": "TRK1057BE",
+  "shipped_on": "2026-11-06",
+  "delivered_on": null
+ },
+ {
+  "order_id": "1058",
+  "customer": "Sophie Wouters",
+  "email": "customer1058@example.com",
+  "country": "DE",
+  "items": [
+   {
+    "product_id": "P06",
+    "name": "Lune desk lamp",
+    "price": 149
+   },
+   {
+    "product_id": "P12",
+    "name": "Replacement linen shade 40 cm",
+    "price": 49
+   }
+  ],
+  "total": 198,
+  "shipping_cost": 0,
+  "status": "shipped",
+  "ordered_on": "2026-11-06",
+  "carrier": "DHL",
+  "tracking": "TRK1058DE",
+  "shipped_on": "2026-11-07",
+  "delivered_on": null
+ },
+ {
+  "order_id": "1059",
+  "customer": "Chloe Müller",
+  "email": "customer1059@example.com",
+  "country": "BE",
+  "items": [
+   {
+    "product_id": "P08",
+    "name": "Tulip table lamp",
+    "price": 115
+   },
+   {
+    "product_id": "P02",
+    "name": "Nova floor lamp",
+    "price": 289
+   }
+  ],
+  "total": 404,
+  "shipping_cost": 0,
+  "status": "shipped",
+  "ordered_on": "2026-11-07",
+  "carrier": "DHL Freight",
+  "tracking": "TRK1059BE",
+  "shipped_on": "2026-11-08",
+  "delivered_on": null
+ },
+ {
+  "order_id": "1060",
+  "customer": "Bram Dubois",
+  "email": "customer1060@example.com",
+  "country": "BE",
+  "items": [
+   {
+    "product_id": "P11",
+    "name": "Lumo Warm LED bulb E14",
+    "price": 8.95
+   },
+   {
+    "product_id": "P02",
+    "name": "Nova floor lamp",
+    "price": 289
+   }
+  ],
+  "total": 297.95,
+  "shipping_cost": 0,
+  "status": "shipped",
+  "ordered_on": "2026-11-08",
+  "carrier": "DHL Freight",
+  "tracking": "TRK1060BE",
+  "shipped_on": "2026-11-09",
+  "delivered_on": null
+ },
+ {
+  "order_id": "1061",
+  "customer": "Lena Müller",
+  "email": "customer1061@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P10",
+    "name": "Lumo Warm LED bulb E27",
+    "price": 9.95
+   },
+   {
+    "product_id": "P11",
+    "name": "Lumo Warm LED bulb E14",
+    "price": 8.95
+   }
+  ],
+  "total": 23.85,
+  "shipping_cost": 4.95,
+  "status": "processing",
+  "ordered_on": "2026-11-09",
+  "carrier": null,
+  "tracking": null,
+  "shipped_on": null,
+  "delivered_on": null
+ },
+ {
+  "order_id": "1062",
+  "customer": "Lena Schmidt",
+  "email": "customer1062@example.com",
+  "country": "BE",
+  "items": [
+   {
+    "product_id": "P06",
+    "name": "Lune desk lamp",
+    "price": 149
+   },
+   {
+    "product_id": "P01",
+    "name": "Nova table lamp",
+    "price": 129
+   }
+  ],
+  "total": 278,
+  "shipping_cost": 0,
+  "status": "processing",
+  "ordered_on": "2026-11-10",
+  "carrier": null,
+  "tracking": null,
+  "shipped_on": null,
+  "delivered_on": null
+ },
+ {
+  "order_id": "1063",
+  "customer": "Bram Peeters",
+  "email": "customer1063@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P02",
+    "name": "Nova floor lamp",
+    "price": 289
+   },
+   {
+    "product_id": "P08",
+    "name": "Tulip table lamp",
+    "price": 115
+   }
+  ],
+  "total": 404,
+  "shipping_cost": 0,
+  "status": "processing",
+  "ordered_on": "2026-11-11",
+  "carrier": null,
+  "tracking": null,
+  "shipped_on": null,
+  "delivered_on": null
+ },
+ {
+  "order_id": "1064",
+  "customer": "Lars Janssens",
+  "email": "customer1064@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P12",
+    "name": "Replacement linen shade 40 cm",
+    "price": 49
+   }
+  ],
+  "total": 53.95,
+  "shipping_cost": 4.95,
+  "status": "processing",
+  "ordered_on": "2026-11-12",
+  "carrier": null,
+  "tracking": null,
+  "shipped_on": null,
+  "delivered_on": null
+ },
+ {
+  "order_id": "1065",
+  "customer": "Finn Mertens",
+  "email": "customer1065@example.com",
+  "country": "BE",
+  "items": [
+   {
+    "product_id": "P02",
+    "name": "Nova floor lamp",
+    "price": 289
+   }
+  ],
+  "total": 289,
+  "shipping_cost": 0,
+  "status": "ready for pick-up",
+  "ordered_on": "2026-11-13",
+  "carrier": null,
+  "tracking": null,
+  "shipped_on": null,
+  "delivered_on": null
+ },
+ {
+  "order_id": "1066",
+  "customer": "Yara Meijer",
+  "email": "customer1066@example.com",
+  "country": "BE",
+  "items": [
+   {
+    "product_id": "P05",
+    "name": "Pebble wall light",
+    "price": 99
+   },
+   {
+    "product_id": "P03",
+    "name": "Halo pendant 60 cm",
+    "price": 349
+   }
+  ],
+  "total": 448,
+  "shipping_cost": 0,
+  "status": "cancelled",
+  "ordered_on": "2026-11-14",
+  "carrier": null,
+  "tracking": null,
+  "shipped_on": null,
+  "delivered_on": null
+ },
+ {
+  "order_id": "1067",
+  "customer": "Yara Schmidt",
+  "email": "customer1067@example.com",
+  "country": "DE",
+  "items": [
+   {
+    "product_id": "P12",
+    "name": "Replacement linen shade 40 cm",
+    "price": 49
+   }
+  ],
+  "total": 55.95,
+  "shipping_cost": 6.95,
+  "status": "lost (carrier investigation)",
+  "ordered_on": "2026-11-15",
+  "carrier": "DHL",
+  "tracking": "TRK1067DE",
+  "shipped_on": "2026-11-16",
+  "delivered_on": null
+ },
+ {
+  "order_id": "1068",
+  "customer": "Chloe Smit",
+  "email": "customer1068@example.com",
+  "country": "BE",
+  "items": [
+   {
+    "product_id": "P03",
+    "name": "Halo pendant 60 cm",
+    "price": 349
+   }
+  ],
+  "total": 349,
+  "shipping_cost": 0,
+  "status": "returned",
+  "ordered_on": "2026-11-16",
+  "carrier": "DHL",
+  "tracking": "TRK1068BE",
+  "shipped_on": "2026-11-17",
+  "delivered_on": "2026-11-19"
+ },
+ {
+  "order_id": "1069",
+  "customer": "Lars Bakker",
+  "email": "customer1069@example.com",
+  "country": "NL",
+  "items": [
+   {
+    "product_id": "P11",
+    "name": "Lumo Warm LED bulb E14",
+    "price": 8.95
+   }
+  ],
+  "total": 13.9,
+  "shipping_cost": 4.95,
+  "status": "returned",
+  "ordered_on": "2026-11-17",
+  "carrier": "PostNL",
+  "tracking": "TRK1069NL",
+  "shipped_on": "2026-11-18",
+  "delivered_on": "2026-11-20"
+ }
+]
